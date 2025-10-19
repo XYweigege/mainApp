@@ -14,7 +14,7 @@ module.exports = {
     port: 3001,
   },
   output: {
-    publicPath: './',
+    publicPath: "./",
   },
   module: {
     rules: [

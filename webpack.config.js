@@ -40,7 +40,7 @@ module.exports = {
       // there is no version check for the required version
       // so it will always use the higher version found
       remotes: {
-        remoteApp: 'remoteApp@http://localhost:3000/remoteEntry.js',
+        remoteApp: 'remoteApp@https://xyweigege.github.io/component-app/remoteEntry.js',
       },
       shared: {
         react: {
